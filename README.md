@@ -1,2 +1,2 @@
 # economics
-Notes and R codes in applied economics.
+Notes and Python codes in applied economics.
